@@ -1,2 +1,2 @@
 # Power-BI-Sales project 
-this id my first power BI project
+This is my first power BI project.
